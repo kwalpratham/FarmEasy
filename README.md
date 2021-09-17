@@ -1,7 +1,7 @@
 Project Name: FarmEasy
 
 Description:
-FarmEasy is a user-friendly wesite which we have built to connect landowners and farmers. Agriculture is one of the major occupations
+FarmEasy is a user-friendly website which we have built to connect landowners and farmers. Agriculture is one of the major occupations
 in our country. Giving agricultural land on lease to do agriculture can be done easily through FarmEasy and will grow agriculture.
 
 Project Components:
