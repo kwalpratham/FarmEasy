@@ -1,0 +1,2 @@
+django
+Pillow 9.0.1 # Version not confirmed

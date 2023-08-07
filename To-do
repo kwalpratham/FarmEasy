@@ -1,0 +1,7 @@
+I.   Render image from model in frontend -- Currently I am using django forms for this
+
+II.  Apply words separator in cropHistory field of add_post form to identify each discrete crop. 
+                        OR 
+     Take multiple inputs in form for multiple crops.
+
+III. Redesign add_post form.
